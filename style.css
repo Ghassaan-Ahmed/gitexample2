@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: slategray;
+  color: white;
+}
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(224, 224, 224);
+    font-size: medium;}
+    #success{
+        color: rgb(255, 255, 255);
+        background-image: url(https://d2liqplnt17rh6.cloudfront.net/coverImages/kafeocover_36f8711c-f043-420c-a841-3b63ccf7c269-171.jpeg);
+        height: 1000; width: 450;
+    }
